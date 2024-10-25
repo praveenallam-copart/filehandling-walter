@@ -1,0 +1,7 @@
+2024-10-23 19:46:11,426 - ERROR - An unexpected e occurred: ('AttributeError', "'ImageHandling' object has no attribute 'run'")
+2024-10-23 19:46:11,426 - ERROR - An unexpected e occurred: ('AttributeError', "'ImageHandling' object has no attribute 'run'")
+2024-10-23 19:46:59,696 - ERROR - An unexpected e occurred: ('TypeError', "ImageHandling.run() got an unexpected keyword argument 'image_paths'")
+2024-10-23 19:46:59,696 - ERROR - An unexpected e occurred: ('TypeError', "ImageHandling.run() got an unexpected keyword argument 'image_paths'")
+2024-10-23 19:48:18,208 - ERROR - An unexpected e occurred: ('RuntimeError', 'asyncio.run() cannot be called from a running event loop')
+2024-10-23 19:48:18,208 - ERROR - An unexpected e occurred: ('RuntimeError', 'asyncio.run() cannot be called from a running event loop')
+2024-10-24 12:26:52,810 - ERROR - An unexpected e occurred: ('AttributeError', "'ImageContents' object has no attribute 'usre_id'")

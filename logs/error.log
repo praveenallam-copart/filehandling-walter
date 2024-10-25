@@ -1,0 +1,2 @@
+2024-10-22 13:16:37,149 - ERROR - An unexpected e occurred: ('NameError', "name 'OPENAI_API_KEY' is not defined")
+2024-10-22 13:16:37,149 - ERROR - An unexpected e occurred: ('NameError', "name 'OPENAI_API_KEY' is not defined")
